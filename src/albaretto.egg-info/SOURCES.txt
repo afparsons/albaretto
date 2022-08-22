@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/albaretto/__init__.py
+src/albaretto/__main__.py
+src/albaretto.egg-info/PKG-INFO
+src/albaretto.egg-info/SOURCES.txt
+src/albaretto.egg-info/dependency_links.txt
+src/albaretto.egg-info/requires.txt
+src/albaretto.egg-info/top_level.txt
+src/albaretto/common/__init__.py
+src/albaretto/common/commands.py
+src/albaretto/common/subshell.py
+src/albaretto/services/__init__.py
+src/albaretto/services/google_drive.py
+src/albaretto/services/local_filesystem.py
