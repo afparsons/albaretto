@@ -40,26 +40,6 @@ _warning_openai_terms_of_service: Final[str] = \
     "Programmatically accessing DALL·E 2 may be against OpenAI's terms of service." \
     " Proceed at your own risk."
 
-# class Subshell:
-#
-#     @staticmethod
-#     def static():
-#         print('STATIC!')
-#
-#     def __call__(self, *args, **kwargs):
-#
-#
-#
-#
-# class SubshellLocalFilesystem(Subshell):
-#     def save(self):
-#         pass
-#
-#
-# class SubshellGoogleDrive(Subshell):
-#     def save(self):
-#         pass
-
 
 # -----------------------------------------------------------------------------
 # MAIN
