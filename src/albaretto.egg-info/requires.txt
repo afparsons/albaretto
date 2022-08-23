@@ -1,6 +1,0 @@
-typer[all]
-requests
-click-shell
-google-auth-httplib2
-google-auth-oauthlib
-google-api-python-client
